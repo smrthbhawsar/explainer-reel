@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:01,293
+Ek Hey, kaise ho?
+
+2
+00:00:01,777 --> 00:00:03,896
+message, aur poori savings gayab.
+
+3
+00:00:04,380 --> 00:00:05,994
+Na koi link, na koi virus.
+
+4
+00:00:06,361 --> 00:00:08,306
+Phir bhi tumhara phone pehle hi warning de deta hai.
+
+5
+00:00:08,727 --> 00:00:09,003
+Kaise?
+
+6
+00:00:09,496 --> 00:00:13,994
+Purana spam filter darwaze pe khade guard jaisa hai, jo sirf number aur link check karta hai.
+
+7
+00:00:14,461 --> 00:00:15,818
+Naya number, saaf message?
+
+8
+00:00:16,176 --> 00:00:16,650
+Andar aa jao.
+
+9
+00:00:17,114 --> 00:00:18,858
+Aur yahi scammers ka loophole hai.
+
+10
+00:00:19,336 --> 00:00:22,323
+Aaj ka scam ek message mein nahi, poori conversation mein hota hai.
+
+11
+00:00:22,797 --> 00:00:23,527
+Pehle wrong number.
+
+12
+00:00:23,907 --> 00:00:24,408
+Phir dosti.
+
+13
+00:00:24,772 --> 00:00:26,164
+Phir ek zabardast investment.
+
+14
+00:00:26,454 --> 00:00:27,746
+Aur last mein — paise bhejo.
+
+15
+00:00:28,271 --> 00:00:32,415
+Yahin aata hai Scam Detection — Google Messages ke andar ek on-device AI.
+
+16
+00:00:32,845 --> 00:00:36,965
+Simple bhasha mein: guard nahi, ek detective, jo poori kahani padhta hai.
+
+17
+00:00:37,449 --> 00:00:43,436
+Har naya message aate hi, AI poori chat ka pattern dekhta hai — kaun hai, kya maang raha hai, aur kitni jaldi mein hai.
+
+18
+00:00:43,904 --> 00:00:47,466
+Pattern scam jaisa laga, toh screen pe seedha warning: Likely scam.
+
+19
+00:00:47,922 --> 00:00:49,549
+Ek tap mein report, aur block.
+
+20
+00:00:50,007 --> 00:00:51,320
+Lekin asli twist yahan hai.
+
+21
+00:00:51,747 --> 00:00:53,906
+Ye sab tumhare phone ke andar hi hota hai.
+
+22
+00:00:54,334 --> 00:00:55,989
+Tumhari chats kisi server pe nahi jaati.
+
+23
+00:00:56,375 --> 00:00:58,620
+Aur ye sirf anjaan numbers ki chats check karta hai.
+
+24
+00:00:59,059 --> 00:01:04,372
+Toh agli baar koi anjaan bole, Hi, kaise ho — tumhara phone poori kahani pehle hi padh chuka hoga.

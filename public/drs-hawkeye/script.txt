@@ -1,0 +1,17 @@
+DRS mein stumps pe lagti ball — kabhi wahan pahunchi hi nahi.
+Ball toh pad pe ruk gayi thi. Phir woh red line aayi kahan se?
+Yahin aata hai Hawk-Eye.
+Stadium ke chaaron taraf, chhe high-speed cameras lage hote hain.
+Har camera second mein sau se zyada frames leta hai, aur har frame mein dhoondta hai — ball.
+Lekin ek camera akela kaafi nahi.
+Ek camera sirf direction batata hai, distance nahi.
+Do cameras alag angles se ball dekhte hain — jahan dono lines milti hain, wahi asli position.
+Ise kehte hain triangulation.
+Har frame ki position jodo, aur ball ka poora 3D path ban jaata hai — release se bounce tak, bounce se pad tak.
+Ab asli twist.
+Pad ke baad ball ka koi data hi nahi hota.
+Toh software physics lagata hai — speed, swing, bounce ka angle — aur path ko stumps tak extend karta hai.
+Wahi dashed line hai, prediction.
+Phir teen sawaal. Pitching in line? Impact in line? Wickets hitting?
+Agar ball stumps ko bas chhoo rahi ho, toh faisla field umpire ka rehta hai — Umpire's Call.
+Agli baar woh red line dekho — woh replay nahi, ek prediction hai.

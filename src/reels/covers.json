@@ -1,0 +1,126 @@
+{
+  "$comment": "Instagram publish kit per reel (scripts/publish-kit.cjs). 'order' = posting order (first posted first). title: lines, {word} = accent highlight. frame = reel frame used as the cover visual; crop = source y/height of that frame shown in the cover's visual window (scale 1 = 1:1).",
+  "order": [
+    "upi",
+    "fastag",
+    "rag",
+    "mcp",
+    "scam-detection",
+    "drs-hawkeye",
+    "ultraedge"
+  ],
+  "covers": {
+    "upi": {
+      "reelId": "UpiReel",
+      "frame": 1680,
+      "series": "HOW IT WORKS",
+      "title": [
+        "Paise kat gaye,",
+        "phir bhi {PENDING}?"
+      ],
+      "sub": "UPI · NPCI · Idempotency",
+      "accent": "#F59E0B",
+      "crop": {
+        "y": 170,
+        "h": 760,
+        "scale": 1
+      }
+    },
+    "fastag": {
+      "reelId": "FastagReel",
+      "frame": 60,
+      "series": "HOW IT WORKS",
+      "title": [
+        "Bina {battery} ke",
+        "toll kaise kata?"
+      ],
+      "sub": "FASTag · RFID · NPCI",
+      "accent": "#38BDF8",
+      "crop": {
+        "y": 260,
+        "h": 760,
+        "scale": 1
+      }
+    },
+    "rag": {
+      "reelId": "RagReel",
+      "frame": 200,
+      "series": "AI ARCHITECTURE",
+      "title": [
+        "ChatGPT tumhara",
+        "data {nahi} jaanta"
+      ],
+      "sub": "RAG · Vector DB · LLM",
+      "accent": "#EF4444",
+      "crop": {
+        "y": 200,
+        "h": 760,
+        "scale": 1
+      }
+    },
+    "mcp": {
+      "reelId": "McpReel",
+      "frame": 720,
+      "series": "AI ARCHITECTURE",
+      "title": [
+        "AI ke paas {haath}",
+        "kyun nahi hain?"
+      ],
+      "sub": "MCP · Model Context Protocol",
+      "accent": "#A78BFA",
+      "crop": {
+        "y": 200,
+        "h": 760,
+        "scale": 1
+      }
+    },
+    "scam-detection": {
+      "reelId": "ScamDetectionReel",
+      "frame": 1460,
+      "series": "AI ARCHITECTURE",
+      "title": [
+        "Hey, kaise ho?",
+        "aur savings {gayab}"
+      ],
+      "sub": "On-device AI · Google Messages",
+      "accent": "#EF4444",
+      "crop": {
+        "y": 390,
+        "h": 760,
+        "scale": 1
+      }
+    },
+    "drs-hawkeye": {
+      "reelId": "DrsHawkeyeReel",
+      "frame": 1420,
+      "series": "CRICKET TECH · EP 1",
+      "title": [
+        "Ball stumps tak",
+        "{pahunchi} hi nahi"
+      ],
+      "sub": "DRS · Hawk-Eye · Ball Tracking",
+      "accent": "#F59E0B",
+      "crop": {
+        "y": 420,
+        "h": 760,
+        "scale": 1
+      }
+    },
+    "ultraedge": {
+      "reelId": "UltraEdgeReel",
+      "frame": 16,
+      "series": "CRICKET TECH · EP 2",
+      "title": [
+        "Spike aaya,",
+        "par {bat} nahi?"
+      ],
+      "sub": "UltraEdge · Stump Mic · Sync",
+      "accent": "#EF4444",
+      "crop": {
+        "y": 280,
+        "h": 760,
+        "scale": 1
+      }
+    }
+  }
+}

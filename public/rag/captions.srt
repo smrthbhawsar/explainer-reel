@@ -1,0 +1,76 @@
+1
+00:00:00,050 --> 00:00:03,976
+ChatGPT se apne company ke kal ke
+sales report ke baare mein poocho 
+
+2
+00:00:04,542 --> 00:00:07,808
+wo ya to mana kar dega, ya koi
+galat number bana kar de dega. 
+
+3
+00:00:08,401 --> 00:00:08,601
+Kyun? 
+
+4
+00:00:09,121 --> 00:00:12,282
+Kyunki har LLM ek closed-book
+exam ki tarah hota hai. 
+
+5
+00:00:12,864 --> 00:00:15,857
+Use sirf wahi yaad hai jo usne
+training ke waqt padha tha. 
+
+6
+00:00:16,374 --> 00:00:19,287
+Tumhara private ya naya data
+uske paas hai hi nahi. 
+
+7
+00:00:19,874 --> 00:00:24,270
+Yahin aata hai RAG —
+Retrieval-Augmented Generation. 
+
+8
+00:00:24,851 --> 00:00:29,332
+Simple bhasha mein: AI ko closed-book
+ki jagah open-book exam dene dena. 
+
+9
+00:00:29,852 --> 00:00:31,293
+Ye do hisson mein kaam karta hai.  
+
+10
+00:00:31,890 --> 00:00:39,162
+Pehle, tum apne PDFs, docs, aur databases ko
+chhote chunks mein tod kar Vector Database mein store karte ho. 
+
+11
+00:00:39,722 --> 00:00:41,733
+Ye AI ki personal library hai. 
+
+12
+00:00:42,277 --> 00:00:47,699
+Jab tum sawal poochte ho, system pehle is
+library se sirf relevant pages retrieve karta hai. 
+
+13
+00:00:48,195 --> 00:00:51,975
+Phir un pages ko tumhare sawal ke saath
+jod kar LLM ko bhejta hai,
+
+14
+00:00:52,498 --> 00:00:55,828
+aur LLM exact, accurate
+jawab generate karta hai.
+
+15
+00:00:56,368 --> 00:01:00,314
+Na model ko mehnga re-train karne ki
+zaroorat, na hallucination ka darr. 
+
+16
+00:01:00,832 --> 00:01:04,234
+Bas sahi context do,
+aur AI expert ban jaata hai.

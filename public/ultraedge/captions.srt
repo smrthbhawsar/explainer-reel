@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:03,394
+UltraEdge pe jo spike dikhta hai — zaroori nahi woh bat ki awaaz ho.
+
+2
+00:00:03,876 --> 00:00:06,696
+Pad, zameen, joota — sab spike bana sakte hain.
+
+3
+00:00:07,184 --> 00:00:08,988
+Toh third umpire edge pakadta kaise hai?
+
+4
+00:00:09,555 --> 00:00:13,954
+Jawab stumps ke andar chhupa hai — ek chhota microphone, stump mic.
+
+5
+00:00:14,365 --> 00:00:18,204
+Woh har second hazaaron baar awaaz sunta hai, aur screen pe wave banti hai.
+
+6
+00:00:18,665 --> 00:00:20,218
+Lekin sirf spike dekhna kaafi nahi.
+
+7
+00:00:20,614 --> 00:00:24,509
+Bat ka edge ek patla, nukila spike banata hai — bas ek pal ka.
+
+8
+00:00:24,860 --> 00:00:27,728
+Pad ya zameen ki awaaz moti aur faili hui hoti hai.
+
+9
+00:00:28,234 --> 00:00:29,699
+Ab asli game — timing.
+
+10
+00:00:30,271 --> 00:00:32,439
+Wave ko video se frame by frame milaate hain.
+
+11
+00:00:32,818 --> 00:00:36,469
+Spike theek usi frame pe chahiye, jab ball bat ke bagal se guzarti hai.
+
+12
+00:00:36,891 --> 00:00:38,897
+Ball bat tak pahunchi hi nahi, aur spike aa gaya?
+
+13
+00:00:39,319 --> 00:00:41,251
+Matlab awaaz kahin aur ki thi.
+
+14
+00:00:41,769 --> 00:00:42,690
+Par yahan ek problem hai.
+
+15
+00:00:43,097 --> 00:00:48,887
+Audio aur video ka sync sirf das millisecond hila — aur ek sau chaalees ki ball, chaalees centimeter aage nikal gayi.
+
+16
+00:00:49,360 --> 00:00:53,192
+Aur bahut patla edge itna halka hota hai, ki crowd ke shor mein dab jaata hai.
+
+17
+00:00:53,607 --> 00:00:56,956
+Isiliye kabhi seedhi line pe bhi out milta hai — kyunki deflection dikha.
+
+18
+00:00:57,396 --> 00:00:59,984
+Agli baar yaad rakhna — spike sirf awaaz hai.
+
+19
+00:01:00,360 --> 00:01:01,657
+Sach timing batati hai.

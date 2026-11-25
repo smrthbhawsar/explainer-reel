@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:06,495
+Tumne AI assistant se bola, mera GitHub check karo, Slack pe update bhejo, aur calendar mein meeting daalo.
+
+2
+00:00:07,050 --> 00:00:09,974
+Usne jawab diya — sorry, main ye nahi kar sakta.
+
+3
+00:00:10,486 --> 00:00:10,765
+Kyun?
+
+4
+00:00:11,363 --> 00:00:15,220
+Kyunki LLM ek bahut smart dimaag hai, par uske haath nahi hain.
+
+5
+00:00:15,860 --> 00:00:20,637
+Har tool se baat karne ke liye developers ko alag alag custom integration likhna padta tha.
+
+6
+00:00:21,111 --> 00:00:25,614
+Das AI apps aur das tools, matlab sau alag connectors.
+
+7
+00:00:26,259 --> 00:00:29,654
+Yahin aata hai MCP — Model Context Protocol.
+
+8
+00:00:30,226 --> 00:00:33,452
+Simple bhasha mein: AI ke liye USB-C port.
+
+9
+00:00:33,935 --> 00:00:36,769
+Ek standard plug, jo har tool mein fit ho jaata hai.
+
+10
+00:00:37,437 --> 00:00:43,217
+Pehle, har tool apna ek MCP Server banata hai, jo batata hai ki wo kya kya kar sakta hai.
+
+11
+00:00:43,765 --> 00:00:48,764
+Tumhari AI app ke andar ek MCP Client hota hai, jo in servers se connect hota hai.
+
+12
+00:00:49,308 --> 00:00:57,270
+Jab tum sawal poochte ho, LLM sahi tool chunta hai, client request bhejta hai, aur server real data ya action wapas laata hai.
+
+13
+00:00:57,858 --> 00:01:01,617
+Na har app ke liye naya code, na har tool ke liye alag jugaad.
+
+14
+00:01:02,110 --> 00:01:05,081
+Ek baar server banao, har AI app use kar legi.
+
+15
+00:01:05,598 --> 00:01:08,239
+Bas plug karo, aur AI ko haath mil jaate hain.

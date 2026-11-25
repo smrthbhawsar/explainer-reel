@@ -1,0 +1,1339 @@
+[
+ {
+  "text": "UltraEdge",
+  "startMs": 0,
+  "endMs": 445,
+  "timestampMs": 222,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 445,
+  "endMs": 593,
+  "timestampMs": 519,
+  "confidence": null
+ },
+ {
+  "text": " jo",
+  "startMs": 593,
+  "endMs": 741,
+  "timestampMs": 667,
+  "confidence": null
+ },
+ {
+  "text": " spike",
+  "startMs": 741,
+  "endMs": 1038,
+  "timestampMs": 890,
+  "confidence": null
+ },
+ {
+  "text": " dikhta",
+  "startMs": 1038,
+  "endMs": 1334,
+  "timestampMs": 1186,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 1334,
+  "endMs": 1483,
+  "timestampMs": 1408,
+  "confidence": null
+ },
+ {
+  "text": " zaroori",
+  "startMs": 1919,
+  "endMs": 2321,
+  "timestampMs": 2120,
+  "confidence": null
+ },
+ {
+  "text": " nahi",
+  "startMs": 2321,
+  "endMs": 2589,
+  "timestampMs": 2455,
+  "confidence": null
+ },
+ {
+  "text": " woh",
+  "startMs": 2589,
+  "endMs": 2723,
+  "timestampMs": 2656,
+  "confidence": null
+ },
+ {
+  "text": " bat",
+  "startMs": 2723,
+  "endMs": 2857,
+  "timestampMs": 2790,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 2857,
+  "endMs": 2992,
+  "timestampMs": 2925,
+  "confidence": null
+ },
+ {
+  "text": " awaaz",
+  "startMs": 2992,
+  "endMs": 3260,
+  "timestampMs": 3126,
+  "confidence": null
+ },
+ {
+  "text": " ho.",
+  "startMs": 3260,
+  "endMs": 3394,
+  "timestampMs": 3327,
+  "confidence": null
+ },
+ {
+  "text": " Pad,",
+  "startMs": 3876,
+  "endMs": 4043,
+  "timestampMs": 3960,
+  "confidence": null
+ },
+ {
+  "text": " zameen,",
+  "startMs": 4043,
+  "endMs": 4520,
+  "timestampMs": 4281,
+  "confidence": null
+ },
+ {
+  "text": " joota",
+  "startMs": 4520,
+  "endMs": 4854,
+  "timestampMs": 4687,
+  "confidence": null
+ },
+ {
+  "text": " sab",
+  "startMs": 4988,
+  "endMs": 5172,
+  "timestampMs": 5080,
+  "confidence": null
+ },
+ {
+  "text": " spike",
+  "startMs": 5172,
+  "endMs": 5775,
+  "timestampMs": 5474,
+  "confidence": null
+ },
+ {
+  "text": " bana",
+  "startMs": 5775,
+  "endMs": 6143,
+  "timestampMs": 5959,
+  "confidence": null
+ },
+ {
+  "text": " sakte",
+  "startMs": 6143,
+  "endMs": 6512,
+  "timestampMs": 6327,
+  "confidence": null
+ },
+ {
+  "text": " hain.",
+  "startMs": 6512,
+  "endMs": 6696,
+  "timestampMs": 6604,
+  "confidence": null
+ },
+ {
+  "text": " Toh",
+  "startMs": 7184,
+  "endMs": 7315,
+  "timestampMs": 7250,
+  "confidence": null
+ },
+ {
+  "text": " third",
+  "startMs": 7315,
+  "endMs": 7446,
+  "timestampMs": 7381,
+  "confidence": null
+ },
+ {
+  "text": " umpire",
+  "startMs": 7446,
+  "endMs": 7839,
+  "timestampMs": 7642,
+  "confidence": null
+ },
+ {
+  "text": " edge",
+  "startMs": 7839,
+  "endMs": 8100,
+  "timestampMs": 7970,
+  "confidence": null
+ },
+ {
+  "text": " pakadta",
+  "startMs": 8100,
+  "endMs": 8595,
+  "timestampMs": 8348,
+  "confidence": null
+ },
+ {
+  "text": " kaise",
+  "startMs": 8595,
+  "endMs": 8857,
+  "timestampMs": 8726,
+  "confidence": null
+ },
+ {
+  "text": " hai?",
+  "startMs": 8857,
+  "endMs": 8988,
+  "timestampMs": 8923,
+  "confidence": null
+ },
+ {
+  "text": " Jawab",
+  "startMs": 9555,
+  "endMs": 9934,
+  "timestampMs": 9744,
+  "confidence": null
+ },
+ {
+  "text": " stumps",
+  "startMs": 9934,
+  "endMs": 10372,
+  "timestampMs": 10153,
+  "confidence": null
+ },
+ {
+  "text": " ke",
+  "startMs": 10372,
+  "endMs": 10562,
+  "timestampMs": 10467,
+  "confidence": null
+ },
+ {
+  "text": " andar",
+  "startMs": 10562,
+  "endMs": 10941,
+  "timestampMs": 10751,
+  "confidence": null
+ },
+ {
+  "text": " chhupa",
+  "startMs": 10941,
+  "endMs": 11320,
+  "timestampMs": 11130,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 11320,
+  "endMs": 11509,
+  "timestampMs": 11414,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 11927,
+  "endMs": 12067,
+  "timestampMs": 11997,
+  "confidence": null
+ },
+ {
+  "text": " chhota",
+  "startMs": 12067,
+  "endMs": 12348,
+  "timestampMs": 12208,
+  "confidence": null
+ },
+ {
+  "text": " microphone,",
+  "startMs": 12348,
+  "endMs": 12910,
+  "timestampMs": 12629,
+  "confidence": null
+ },
+ {
+  "text": " stump",
+  "startMs": 13286,
+  "endMs": 13620,
+  "timestampMs": 13453,
+  "confidence": null
+ },
+ {
+  "text": " mic.",
+  "startMs": 13620,
+  "endMs": 13954,
+  "timestampMs": 13787,
+  "confidence": null
+ },
+ {
+  "text": " Woh",
+  "startMs": 14365,
+  "endMs": 14527,
+  "timestampMs": 14446,
+  "confidence": null
+ },
+ {
+  "text": " har",
+  "startMs": 14527,
+  "endMs": 14689,
+  "timestampMs": 14608,
+  "confidence": null
+ },
+ {
+  "text": " second",
+  "startMs": 14689,
+  "endMs": 15014,
+  "timestampMs": 14852,
+  "confidence": null
+ },
+ {
+  "text": " hazaaron",
+  "startMs": 15014,
+  "endMs": 15501,
+  "timestampMs": 15258,
+  "confidence": null
+ },
+ {
+  "text": " baar",
+  "startMs": 15501,
+  "endMs": 15663,
+  "timestampMs": 15582,
+  "confidence": null
+ },
+ {
+  "text": " awaaz",
+  "startMs": 15663,
+  "endMs": 15988,
+  "timestampMs": 15826,
+  "confidence": null
+ },
+ {
+  "text": " sunta",
+  "startMs": 15988,
+  "endMs": 16313,
+  "timestampMs": 16150,
+  "confidence": null
+ },
+ {
+  "text": " hai,",
+  "startMs": 16313,
+  "endMs": 16475,
+  "timestampMs": 16394,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 16871,
+  "endMs": 17038,
+  "timestampMs": 16955,
+  "confidence": null
+ },
+ {
+  "text": " screen",
+  "startMs": 17038,
+  "endMs": 17205,
+  "timestampMs": 17121,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 17205,
+  "endMs": 17371,
+  "timestampMs": 17288,
+  "confidence": null
+ },
+ {
+  "text": " wave",
+  "startMs": 17371,
+  "endMs": 17704,
+  "timestampMs": 17538,
+  "confidence": null
+ },
+ {
+  "text": " banti",
+  "startMs": 17704,
+  "endMs": 18037,
+  "timestampMs": 17871,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 18037,
+  "endMs": 18204,
+  "timestampMs": 18121,
+  "confidence": null
+ },
+ {
+  "text": " Lekin",
+  "startMs": 18665,
+  "endMs": 18948,
+  "timestampMs": 18806,
+  "confidence": null
+ },
+ {
+  "text": " sirf",
+  "startMs": 18948,
+  "endMs": 19089,
+  "timestampMs": 19018,
+  "confidence": null
+ },
+ {
+  "text": " spike",
+  "startMs": 19089,
+  "endMs": 19371,
+  "timestampMs": 19230,
+  "confidence": null
+ },
+ {
+  "text": " dekhna",
+  "startMs": 19371,
+  "endMs": 19654,
+  "timestampMs": 19512,
+  "confidence": null
+ },
+ {
+  "text": " kaafi",
+  "startMs": 19654,
+  "endMs": 19936,
+  "timestampMs": 19795,
+  "confidence": null
+ },
+ {
+  "text": " nahi.",
+  "startMs": 19936,
+  "endMs": 20218,
+  "timestampMs": 20077,
+  "confidence": null
+ },
+ {
+  "text": " Bat",
+  "startMs": 20614,
+  "endMs": 20788,
+  "timestampMs": 20701,
+  "confidence": null
+ },
+ {
+  "text": " ka",
+  "startMs": 20788,
+  "endMs": 20962,
+  "timestampMs": 20875,
+  "confidence": null
+ },
+ {
+  "text": " edge",
+  "startMs": 20962,
+  "endMs": 21310,
+  "timestampMs": 21136,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 21310,
+  "endMs": 21656,
+  "timestampMs": 21483,
+  "confidence": null
+ },
+ {
+  "text": " patla,",
+  "startMs": 21656,
+  "endMs": 22004,
+  "timestampMs": 21830,
+  "confidence": null
+ },
+ {
+  "text": " nukila",
+  "startMs": 22189,
+  "endMs": 22556,
+  "timestampMs": 22372,
+  "confidence": null
+ },
+ {
+  "text": " spike",
+  "startMs": 22556,
+  "endMs": 22800,
+  "timestampMs": 22678,
+  "confidence": null
+ },
+ {
+  "text": " banata",
+  "startMs": 22800,
+  "endMs": 23167,
+  "timestampMs": 22983,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 23167,
+  "endMs": 23289,
+  "timestampMs": 23228,
+  "confidence": null
+ },
+ {
+  "text": " bas",
+  "startMs": 23635,
+  "endMs": 23854,
+  "timestampMs": 23744,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 23854,
+  "endMs": 24072,
+  "timestampMs": 23963,
+  "confidence": null
+ },
+ {
+  "text": " pal",
+  "startMs": 24072,
+  "endMs": 24291,
+  "timestampMs": 24181,
+  "confidence": null
+ },
+ {
+  "text": " ka.",
+  "startMs": 24291,
+  "endMs": 24509,
+  "timestampMs": 24400,
+  "confidence": null
+ },
+ {
+  "text": " Pad",
+  "startMs": 24860,
+  "endMs": 25027,
+  "timestampMs": 24944,
+  "confidence": null
+ },
+ {
+  "text": " ya",
+  "startMs": 25027,
+  "endMs": 25194,
+  "timestampMs": 25111,
+  "confidence": null
+ },
+ {
+  "text": " zameen",
+  "startMs": 25194,
+  "endMs": 25528,
+  "timestampMs": 25361,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 25528,
+  "endMs": 25695,
+  "timestampMs": 25612,
+  "confidence": null
+ },
+ {
+  "text": " awaaz",
+  "startMs": 25695,
+  "endMs": 26224,
+  "timestampMs": 25960,
+  "confidence": null
+ },
+ {
+  "text": " moti",
+  "startMs": 26224,
+  "endMs": 26558,
+  "timestampMs": 26391,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 26558,
+  "endMs": 26725,
+  "timestampMs": 26642,
+  "confidence": null
+ },
+ {
+  "text": " faili",
+  "startMs": 26725,
+  "endMs": 27060,
+  "timestampMs": 26893,
+  "confidence": null
+ },
+ {
+  "text": " hui",
+  "startMs": 27060,
+  "endMs": 27227,
+  "timestampMs": 27143,
+  "confidence": null
+ },
+ {
+  "text": " hoti",
+  "startMs": 27227,
+  "endMs": 27561,
+  "timestampMs": 27394,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 27561,
+  "endMs": 27728,
+  "timestampMs": 27644,
+  "confidence": null
+ },
+ {
+  "text": " Ab",
+  "startMs": 28234,
+  "endMs": 28386,
+  "timestampMs": 28310,
+  "confidence": null
+ },
+ {
+  "text": " asli",
+  "startMs": 28386,
+  "endMs": 28690,
+  "timestampMs": 28538,
+  "confidence": null
+ },
+ {
+  "text": " game",
+  "startMs": 28690,
+  "endMs": 28994,
+  "timestampMs": 28842,
+  "confidence": null
+ },
+ {
+  "text": " timing.",
+  "startMs": 29436,
+  "endMs": 29699,
+  "timestampMs": 29567,
+  "confidence": null
+ },
+ {
+  "text": " Wave",
+  "startMs": 30271,
+  "endMs": 30560,
+  "timestampMs": 30416,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 30560,
+  "endMs": 30705,
+  "timestampMs": 30633,
+  "confidence": null
+ },
+ {
+  "text": " video",
+  "startMs": 30705,
+  "endMs": 30994,
+  "timestampMs": 30849,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 30994,
+  "endMs": 31139,
+  "timestampMs": 31066,
+  "confidence": null
+ },
+ {
+  "text": " frame",
+  "startMs": 31139,
+  "endMs": 31428,
+  "timestampMs": 31283,
+  "confidence": null
+ },
+ {
+  "text": " by",
+  "startMs": 31428,
+  "endMs": 31572,
+  "timestampMs": 31500,
+  "confidence": null
+ },
+ {
+  "text": " frame",
+  "startMs": 31572,
+  "endMs": 31861,
+  "timestampMs": 31717,
+  "confidence": null
+ },
+ {
+  "text": " milaate",
+  "startMs": 31861,
+  "endMs": 32295,
+  "timestampMs": 32078,
+  "confidence": null
+ },
+ {
+  "text": " hain.",
+  "startMs": 32295,
+  "endMs": 32439,
+  "timestampMs": 32367,
+  "confidence": null
+ },
+ {
+  "text": " Spike",
+  "startMs": 32818,
+  "endMs": 33128,
+  "timestampMs": 32973,
+  "confidence": null
+ },
+ {
+  "text": " theek",
+  "startMs": 33128,
+  "endMs": 33391,
+  "timestampMs": 33260,
+  "confidence": null
+ },
+ {
+  "text": " usi",
+  "startMs": 33391,
+  "endMs": 33701,
+  "timestampMs": 33546,
+  "confidence": null
+ },
+ {
+  "text": " frame",
+  "startMs": 33701,
+  "endMs": 34011,
+  "timestampMs": 33856,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 34011,
+  "endMs": 34166,
+  "timestampMs": 34089,
+  "confidence": null
+ },
+ {
+  "text": " chahiye,",
+  "startMs": 34166,
+  "endMs": 34476,
+  "timestampMs": 34321,
+  "confidence": null
+ },
+ {
+  "text": " jab",
+  "startMs": 34688,
+  "endMs": 34850,
+  "timestampMs": 34769,
+  "confidence": null
+ },
+ {
+  "text": " ball",
+  "startMs": 34850,
+  "endMs": 35012,
+  "timestampMs": 34931,
+  "confidence": null
+ },
+ {
+  "text": " bat",
+  "startMs": 35012,
+  "endMs": 35174,
+  "timestampMs": 35093,
+  "confidence": null
+ },
+ {
+  "text": " ke",
+  "startMs": 35174,
+  "endMs": 35336,
+  "timestampMs": 35255,
+  "confidence": null
+ },
+ {
+  "text": " bagal",
+  "startMs": 35336,
+  "endMs": 35660,
+  "timestampMs": 35498,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 35660,
+  "endMs": 35821,
+  "timestampMs": 35741,
+  "confidence": null
+ },
+ {
+  "text": " guzarti",
+  "startMs": 35821,
+  "endMs": 36307,
+  "timestampMs": 36064,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 36307,
+  "endMs": 36469,
+  "timestampMs": 36388,
+  "confidence": null
+ },
+ {
+  "text": " Ball",
+  "startMs": 36891,
+  "endMs": 37025,
+  "timestampMs": 36958,
+  "confidence": null
+ },
+ {
+  "text": " bat",
+  "startMs": 37025,
+  "endMs": 37159,
+  "timestampMs": 37092,
+  "confidence": null
+ },
+ {
+  "text": " tak",
+  "startMs": 37159,
+  "endMs": 37293,
+  "timestampMs": 37226,
+  "confidence": null
+ },
+ {
+  "text": " pahunchi",
+  "startMs": 37293,
+  "endMs": 37696,
+  "timestampMs": 37494,
+  "confidence": null
+ },
+ {
+  "text": " hi",
+  "startMs": 37696,
+  "endMs": 37830,
+  "timestampMs": 37763,
+  "confidence": null
+ },
+ {
+  "text": " nahi,",
+  "startMs": 37830,
+  "endMs": 38098,
+  "timestampMs": 37964,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 38308,
+  "endMs": 38426,
+  "timestampMs": 38367,
+  "confidence": null
+ },
+ {
+  "text": " spike",
+  "startMs": 38426,
+  "endMs": 38661,
+  "timestampMs": 38543,
+  "confidence": null
+ },
+ {
+  "text": " aa",
+  "startMs": 38661,
+  "endMs": 38779,
+  "timestampMs": 38720,
+  "confidence": null
+ },
+ {
+  "text": " gaya?",
+  "startMs": 38779,
+  "endMs": 38897,
+  "timestampMs": 38838,
+  "confidence": null
+ },
+ {
+  "text": " Matlab",
+  "startMs": 39319,
+  "endMs": 39693,
+  "timestampMs": 39506,
+  "confidence": null
+ },
+ {
+  "text": " awaaz",
+  "startMs": 39693,
+  "endMs": 40316,
+  "timestampMs": 40004,
+  "confidence": null
+ },
+ {
+  "text": " kahin",
+  "startMs": 40316,
+  "endMs": 40690,
+  "timestampMs": 40503,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 40690,
+  "endMs": 40877,
+  "timestampMs": 40783,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 40877,
+  "endMs": 41064,
+  "timestampMs": 40970,
+  "confidence": null
+ },
+ {
+  "text": " thi.",
+  "startMs": 41064,
+  "endMs": 41251,
+  "timestampMs": 41157,
+  "confidence": null
+ },
+ {
+  "text": " Par",
+  "startMs": 41769,
+  "endMs": 41901,
+  "timestampMs": 41835,
+  "confidence": null
+ },
+ {
+  "text": " yahan",
+  "startMs": 41901,
+  "endMs": 42164,
+  "timestampMs": 42032,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 42164,
+  "endMs": 42295,
+  "timestampMs": 42230,
+  "confidence": null
+ },
+ {
+  "text": " problem",
+  "startMs": 42295,
+  "endMs": 42558,
+  "timestampMs": 42427,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 42558,
+  "endMs": 42690,
+  "timestampMs": 42624,
+  "confidence": null
+ },
+ {
+  "text": " Audio",
+  "startMs": 43097,
+  "endMs": 43442,
+  "timestampMs": 43270,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 43442,
+  "endMs": 43615,
+  "timestampMs": 43529,
+  "confidence": null
+ },
+ {
+  "text": " video",
+  "startMs": 43615,
+  "endMs": 43961,
+  "timestampMs": 43788,
+  "confidence": null
+ },
+ {
+  "text": " ka",
+  "startMs": 43961,
+  "endMs": 44134,
+  "timestampMs": 44047,
+  "confidence": null
+ },
+ {
+  "text": " sync",
+  "startMs": 44134,
+  "endMs": 44306,
+  "timestampMs": 44220,
+  "confidence": null
+ },
+ {
+  "text": " sirf",
+  "startMs": 44306,
+  "endMs": 44611,
+  "timestampMs": 44459,
+  "confidence": null
+ },
+ {
+  "text": " das",
+  "startMs": 44611,
+  "endMs": 44783,
+  "timestampMs": 44697,
+  "confidence": null
+ },
+ {
+  "text": " millisecond",
+  "startMs": 44783,
+  "endMs": 45475,
+  "timestampMs": 45129,
+  "confidence": null
+ },
+ {
+  "text": " hila",
+  "startMs": 45475,
+  "endMs": 45820,
+  "timestampMs": 45647,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 46199,
+  "endMs": 46349,
+  "timestampMs": 46274,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 46349,
+  "endMs": 46499,
+  "timestampMs": 46424,
+  "confidence": null
+ },
+ {
+  "text": " sau",
+  "startMs": 46499,
+  "endMs": 46649,
+  "timestampMs": 46574,
+  "confidence": null
+ },
+ {
+  "text": " chaalees",
+  "startMs": 46649,
+  "endMs": 46948,
+  "timestampMs": 46799,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 46948,
+  "endMs": 47098,
+  "timestampMs": 47023,
+  "confidence": null
+ },
+ {
+  "text": " ball,",
+  "startMs": 47098,
+  "endMs": 47248,
+  "timestampMs": 47173,
+  "confidence": null
+ },
+ {
+  "text": " chaalees",
+  "startMs": 47507,
+  "endMs": 47758,
+  "timestampMs": 47632,
+  "confidence": null
+ },
+ {
+  "text": " centimeter",
+  "startMs": 47758,
+  "endMs": 48259,
+  "timestampMs": 48009,
+  "confidence": null
+ },
+ {
+  "text": " aage",
+  "startMs": 48259,
+  "endMs": 48510,
+  "timestampMs": 48385,
+  "confidence": null
+ },
+ {
+  "text": " nikal",
+  "startMs": 48510,
+  "endMs": 48761,
+  "timestampMs": 48636,
+  "confidence": null
+ },
+ {
+  "text": " gayi.",
+  "startMs": 48761,
+  "endMs": 48887,
+  "timestampMs": 48824,
+  "confidence": null
+ },
+ {
+  "text": " Aur",
+  "startMs": 49360,
+  "endMs": 49502,
+  "timestampMs": 49431,
+  "confidence": null
+ },
+ {
+  "text": " bahut",
+  "startMs": 49502,
+  "endMs": 49785,
+  "timestampMs": 49644,
+  "confidence": null
+ },
+ {
+  "text": " patla",
+  "startMs": 49785,
+  "endMs": 50069,
+  "timestampMs": 49927,
+  "confidence": null
+ },
+ {
+  "text": " edge",
+  "startMs": 50069,
+  "endMs": 50352,
+  "timestampMs": 50210,
+  "confidence": null
+ },
+ {
+  "text": " itna",
+  "startMs": 50352,
+  "endMs": 50736,
+  "timestampMs": 50544,
+  "confidence": null
+ },
+ {
+  "text": " halka",
+  "startMs": 50736,
+  "endMs": 51019,
+  "timestampMs": 50878,
+  "confidence": null
+ },
+ {
+  "text": " hota",
+  "startMs": 51019,
+  "endMs": 51303,
+  "timestampMs": 51161,
+  "confidence": null
+ },
+ {
+  "text": " hai,",
+  "startMs": 51303,
+  "endMs": 51568,
+  "timestampMs": 51435,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 51684,
+  "endMs": 51852,
+  "timestampMs": 51768,
+  "confidence": null
+ },
+ {
+  "text": " crowd",
+  "startMs": 51852,
+  "endMs": 52019,
+  "timestampMs": 51936,
+  "confidence": null
+ },
+ {
+  "text": " ke",
+  "startMs": 52019,
+  "endMs": 52187,
+  "timestampMs": 52103,
+  "confidence": null
+ },
+ {
+  "text": " shor",
+  "startMs": 52187,
+  "endMs": 52354,
+  "timestampMs": 52271,
+  "confidence": null
+ },
+ {
+  "text": " mein",
+  "startMs": 52354,
+  "endMs": 52522,
+  "timestampMs": 52438,
+  "confidence": null
+ },
+ {
+  "text": " dab",
+  "startMs": 52522,
+  "endMs": 52689,
+  "timestampMs": 52606,
+  "confidence": null
+ },
+ {
+  "text": " jaata",
+  "startMs": 52689,
+  "endMs": 53024,
+  "timestampMs": 52857,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 53024,
+  "endMs": 53192,
+  "timestampMs": 53108,
+  "confidence": null
+ },
+ {
+  "text": " Isiliye",
+  "startMs": 53607,
+  "endMs": 53998,
+  "timestampMs": 53802,
+  "confidence": null
+ },
+ {
+  "text": " kabhi",
+  "startMs": 53998,
+  "endMs": 54258,
+  "timestampMs": 54128,
+  "confidence": null
+ },
+ {
+  "text": " seedhi",
+  "startMs": 54258,
+  "endMs": 54518,
+  "timestampMs": 54388,
+  "confidence": null
+ },
+ {
+  "text": " line",
+  "startMs": 54518,
+  "endMs": 54779,
+  "timestampMs": 54649,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 54779,
+  "endMs": 54909,
+  "timestampMs": 54844,
+  "confidence": null
+ },
+ {
+  "text": " bhi",
+  "startMs": 54909,
+  "endMs": 55039,
+  "timestampMs": 54974,
+  "confidence": null
+ },
+ {
+  "text": " out",
+  "startMs": 55039,
+  "endMs": 55169,
+  "timestampMs": 55104,
+  "confidence": null
+ },
+ {
+  "text": " milta",
+  "startMs": 55169,
+  "endMs": 55430,
+  "timestampMs": 55300,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 55430,
+  "endMs": 55560,
+  "timestampMs": 55495,
+  "confidence": null
+ },
+ {
+  "text": " kyunki",
+  "startMs": 55912,
+  "endMs": 56210,
+  "timestampMs": 56061,
+  "confidence": null
+ },
+ {
+  "text": " deflection",
+  "startMs": 56210,
+  "endMs": 56657,
+  "timestampMs": 56434,
+  "confidence": null
+ },
+ {
+  "text": " dikha.",
+  "startMs": 56657,
+  "endMs": 56956,
+  "timestampMs": 56807,
+  "confidence": null
+ },
+ {
+  "text": " Agli",
+  "startMs": 57396,
+  "endMs": 57696,
+  "timestampMs": 57546,
+  "confidence": null
+ },
+ {
+  "text": " baar",
+  "startMs": 57696,
+  "endMs": 57845,
+  "timestampMs": 57770,
+  "confidence": null
+ },
+ {
+  "text": " yaad",
+  "startMs": 57845,
+  "endMs": 57995,
+  "timestampMs": 57920,
+  "confidence": null
+ },
+ {
+  "text": " rakhna",
+  "startMs": 57995,
+  "endMs": 58295,
+  "timestampMs": 58145,
+  "confidence": null
+ },
+ {
+  "text": " spike",
+  "startMs": 58616,
+  "endMs": 59072,
+  "timestampMs": 58844,
+  "confidence": null
+ },
+ {
+  "text": " sirf",
+  "startMs": 59072,
+  "endMs": 59300,
+  "timestampMs": 59186,
+  "confidence": null
+ },
+ {
+  "text": " awaaz",
+  "startMs": 59300,
+  "endMs": 59756,
+  "timestampMs": 59528,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 59756,
+  "endMs": 59984,
+  "timestampMs": 59870,
+  "confidence": null
+ },
+ {
+  "text": " Sach",
+  "startMs": 60360,
+  "endMs": 60525,
+  "timestampMs": 60443,
+  "confidence": null
+ },
+ {
+  "text": " timing",
+  "startMs": 60525,
+  "endMs": 60997,
+  "timestampMs": 60761,
+  "confidence": null
+ },
+ {
+  "text": " batati",
+  "startMs": 60997,
+  "endMs": 61492,
+  "timestampMs": 61245,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 61492,
+  "endMs": 61657,
+  "timestampMs": 61575,
+  "confidence": null
+ }
+]

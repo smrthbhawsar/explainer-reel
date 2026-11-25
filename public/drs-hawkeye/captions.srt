@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,030
+DRS mein stumps pe lagti ball — kabhi wahan pahunchi hi nahi.
+
+2
+00:00:03,476 --> 00:00:04,684
+Ball toh pad pe ruk gayi thi.
+
+3
+00:00:05,059 --> 00:00:06,409
+Phir woh red line aayi kahan se?
+
+4
+00:00:06,958 --> 00:00:08,337
+Yahin aata hai Hawk-Eye.
+
+5
+00:00:08,855 --> 00:00:11,889
+Stadium ke chaaron taraf, chhe high-speed cameras lage hote hain.
+
+6
+00:00:12,288 --> 00:00:17,042
+Har camera second mein sau se zyada frames leta hai, aur har frame mein dhoondta hai — ball.
+
+7
+00:00:17,663 --> 00:00:19,281
+Lekin ek camera akela kaafi nahi.
+
+8
+00:00:19,707 --> 00:00:22,146
+Ek camera sirf direction batata hai, distance nahi.
+
+9
+00:00:22,559 --> 00:00:27,388
+Do cameras alag angles se ball dekhte hain — jahan dono lines milti hain, wahi asli position.
+
+10
+00:00:27,809 --> 00:00:29,237
+Ise kehte hain triangulation.
+
+11
+00:00:29,725 --> 00:00:35,952
+Har frame ki position jodo, aur ball ka poora 3D path ban jaata hai — release se bounce tak, bounce se pad tak.
+
+12
+00:00:36,400 --> 00:00:37,355
+Ab asli twist.
+
+13
+00:00:37,706 --> 00:00:39,467
+Pad ke baad ball ka koi data hi nahi hota.
+
+14
+00:00:39,944 --> 00:00:45,787
+Toh software physics lagata hai — speed, swing, bounce ka angle — aur path ko stumps tak extend karta hai.
+
+15
+00:00:46,215 --> 00:00:48,037
+Wahi dashed line hai, prediction.
+
+16
+00:00:48,593 --> 00:00:49,384
+Phir teen sawaal.
+
+17
+00:00:49,936 --> 00:00:50,487
+Pitching in line?
+
+18
+00:00:50,872 --> 00:00:51,535
+Impact in line?
+
+19
+00:00:51,932 --> 00:00:52,558
+Wickets hitting?
+
+20
+00:00:53,073 --> 00:00:57,566
+Agar ball stumps ko bas chhoo rahi ho, toh faisla field umpire ka rehta hai — Umpire's Call.
+
+21
+00:00:58,082 --> 00:01:01,328
+Agli baar woh red line dekho — woh replay nahi, ek prediction hai.

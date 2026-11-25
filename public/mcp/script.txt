@@ -1,0 +1,15 @@
+Tumne AI assistant se bola, mera GitHub check karo, Slack pe update bhejo, aur calendar mein meeting daalo.
+Usne jawab diya — sorry, main ye nahi kar sakta.
+Kyun?
+Kyunki LLM ek bahut smart dimaag hai, par uske haath nahi hain.
+Har tool se baat karne ke liye developers ko alag alag custom integration likhna padta tha.
+Das AI apps aur das tools, matlab sau alag connectors.
+Yahin aata hai MCP — Model Context Protocol.
+Simple bhasha mein: AI ke liye USB-C port.
+Ek standard plug, jo har tool mein fit ho jaata hai.
+Pehle, har tool apna ek MCP Server banata hai, jo batata hai ki wo kya kya kar sakta hai.
+Tumhari AI app ke andar ek MCP Client hota hai, jo in servers se connect hota hai.
+Jab tum sawal poochte ho, LLM sahi tool chunta hai, client request bhejta hai, aur server real data ya action wapas laata hai.
+Na har app ke liye naya code, na har tool ke liye alag jugaad.
+Ek baar server banao, har AI app use kar legi.
+Bas plug karo, aur AI ko haath mil jaate hain.

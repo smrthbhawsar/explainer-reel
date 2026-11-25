@@ -1,0 +1,16 @@
+UltraEdge pe jo spike dikhta hai — zaroori nahi woh bat ki awaaz ho.
+Pad, zameen, joota — sab spike bana sakte hain. Toh third umpire edge pakadta kaise hai?
+Jawab stumps ke andar chhupa hai — ek chhota microphone, stump mic.
+Woh har second hazaaron baar awaaz sunta hai, aur screen pe wave banti hai.
+Lekin sirf spike dekhna kaafi nahi.
+Bat ka edge ek patla, nukila spike banata hai — bas ek pal ka.
+Pad ya zameen ki awaaz moti aur faili hui hoti hai.
+Ab asli game — timing.
+Wave ko video se frame by frame milaate hain.
+Spike theek usi frame pe chahiye, jab ball bat ke bagal se guzarti hai.
+Ball bat tak pahunchi hi nahi, aur spike aa gaya? Matlab awaaz kahin aur ki thi.
+Par yahan ek problem hai.
+Audio aur video ka sync sirf das millisecond hila — aur ek sau chaalees ki ball, chaalees centimeter aage nikal gayi.
+Aur bahut patla edge itna halka hota hai, ki crowd ke shor mein dab jaata hai.
+Isiliye kabhi seedhi line pe bhi out milta hai — kyunki deflection dikha.
+Agli baar yaad rakhna — spike sirf awaaz hai. Sach timing batati hai.

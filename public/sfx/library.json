@@ -1,0 +1,210 @@
+{
+  "whoosh-fast": {
+    "kind": "whoosh",
+    "peak": 0.7,
+    "norm": 1.07,
+    "length": 1.76,
+    "use": "Default camera-angle change",
+    "source": "mixkit",
+    "id": "1490",
+    "title": "Fast whoosh transition"
+  },
+  "whoosh-cinematic": {
+    "kind": "whoosh",
+    "peak": 1.05,
+    "norm": 0.74,
+    "length": 1.33,
+    "use": "Big / dramatic camera moves",
+    "source": "mixkit",
+    "id": "1492",
+    "title": "Cinematic whoosh fast transition"
+  },
+  "whoosh-swoosh": {
+    "kind": "whoosh",
+    "peak": 0.1,
+    "norm": 1.22,
+    "length": 0.57,
+    "use": "Quick cuts",
+    "source": "mixkit",
+    "id": "3115",
+    "title": "Fast transitions swoosh"
+  },
+  "whoosh-motion": {
+    "kind": "whoosh",
+    "peak": 0.3,
+    "norm": 0.76,
+    "length": 1.03,
+    "use": "Camera-angle change (short, clean)",
+    "source": "pixabay",
+    "id": "405445",
+    "title": "Whoosh Motion",
+    "creator": "DRAGON-STUDIO"
+  },
+  "whoosh-punchy": {
+    "kind": "whoosh",
+    "peak": 0.55,
+    "norm": 0.76,
+    "length": 1.92,
+    "use": "Fast, energetic camera moves",
+    "source": "pixabay",
+    "id": "410877",
+    "title": "Whoosh 07",
+    "creator": "DRAGON-STUDIO"
+  },
+  "whoosh-epic": {
+    "kind": "whoosh",
+    "peak": 0.85,
+    "norm": 1,
+    "length": 2.12,
+    "use": "Big / dramatic camera moves",
+    "source": "pixabay",
+    "id": "376875",
+    "title": "Whoosh Cinematic",
+    "creator": "DRAGON-STUDIO"
+  },
+  "swoosh-soft": {
+    "kind": "whoosh",
+    "peak": 0.35,
+    "norm": 1.16,
+    "length": 1.1,
+    "use": "Gentle shot changes",
+    "source": "pixabay",
+    "id": "351021",
+    "title": "Swoosh 06",
+    "creator": "Universfield"
+  },
+  "swoosh-accent": {
+    "kind": "whoosh",
+    "peak": 0.05,
+    "norm": 1,
+    "length": 1.1,
+    "use": "Snappy accents, text slide-ins",
+    "source": "mixkit",
+    "id": "1464",
+    "title": "Quick swoosh accent"
+  },
+  "sweep-short": {
+    "kind": "whoosh",
+    "peak": 0.45,
+    "norm": 1.17,
+    "length": 0.61,
+    "use": "Light sweep between scenes",
+    "source": "mixkit",
+    "id": "175",
+    "title": "Short transition sweep"
+  },
+  "tech-slide": {
+    "kind": "whoosh",
+    "peak": 0.15,
+    "norm": 2.75,
+    "length": 1.65,
+    "use": "Techy UI / screen transitions",
+    "source": "mixkit",
+    "id": "3120",
+    "title": "Technology transition slide"
+  },
+  "transition-snap": {
+    "kind": "whoosh",
+    "peak": 0.15,
+    "norm": 1.51,
+    "length": 1.27,
+    "use": "Snappy cuts / scene switches",
+    "source": "pixabay",
+    "id": "409073",
+    "title": "Transition SFX 2",
+    "creator": "OxidVideos"
+  },
+  "pop-sharp": {
+    "kind": "pop",
+    "peak": 0,
+    "norm": 1,
+    "length": 1.02,
+    "use": "Labels / callouts appearing",
+    "source": "pixabay",
+    "id": "328170",
+    "title": "Sharp Pop",
+    "creator": "CreatorsHome"
+  },
+  "pop-minimal": {
+    "kind": "pop",
+    "peak": 0.15,
+    "norm": 0.65,
+    "length": 1.63,
+    "use": "Subtle UI / list items",
+    "source": "pixabay",
+    "id": "467466",
+    "title": "Clean Minimal Pop",
+    "creator": "DRAGON-STUDIO"
+  },
+  "pop-bubble": {
+    "kind": "pop",
+    "peak": 0.1,
+    "norm": 1.19,
+    "length": 1.06,
+    "use": "Playful pops, icons appearing",
+    "source": "pixabay",
+    "id": "351337",
+    "title": "Bubble Pop 06",
+    "creator": "Universfield"
+  },
+  "pop-hard": {
+    "kind": "pop",
+    "peak": 0,
+    "norm": 1.13,
+    "length": 1.17,
+    "use": "Emphasised keyword / stat reveal",
+    "source": "mixkit",
+    "id": "2364",
+    "title": "Hard pop click"
+  },
+  "pop-light": {
+    "kind": "pop",
+    "peak": 0,
+    "norm": 1.25,
+    "length": 0.18,
+    "use": "Light pop for small elements",
+    "source": "mixkit",
+    "id": "3005",
+    "title": "Explainer video pops whoosh light pop"
+  },
+  "click-ui": {
+    "kind": "pop",
+    "peak": 0,
+    "norm": 2,
+    "length": 0.2,
+    "use": "UI taps, checkmarks, list items",
+    "source": "mixkit",
+    "id": "2568",
+    "title": "Cool interface click tone"
+  },
+  "impact-zoom": {
+    "kind": "impact",
+    "peak": 0.5,
+    "norm": 0.54,
+    "length": 1.22,
+    "use": "Punch-in zooms, key moment",
+    "source": "mixkit",
+    "id": "772",
+    "title": "Quick zoom impact"
+  },
+  "impact-whoosh": {
+    "kind": "impact",
+    "peak": 0.9,
+    "norm": 0.44,
+    "length": 3.53,
+    "use": "Hook / big reveal",
+    "source": "mixkit",
+    "id": "2903",
+    "title": "Movie whoosh impact presentation"
+  },
+  "riser-short": {
+    "kind": "riser",
+    "peak": 2.45,
+    "norm": 2,
+    "length": 2.57,
+    "use": "Build-up into the payoff",
+    "source": "mixkit",
+    "id": "790",
+    "title": "Cinematic trailer riser"
+  }
+}

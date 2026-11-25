@@ -1,0 +1,16 @@
+ChatGPT se apne company ke kal ke sales report ke baare mein poocho 
+wo ya to mana kar dega, ya koi galat number bana kar de dega. 
+Kyun? 
+Kyunki har LLM ek closed-book exam ki tarah hota hai. 
+Use sirf wahi yaad hai jo usne training ke waqt padha tha. 
+Tumhara private ya naya data uske paas hai hi nahi. 
+Yahin aata hai RAG — Retrieval-Augmented Generation. 
+Simple bhasha mein: AI ko closed-book ki jagah open-book exam dene dena. 
+Ye do hisson mein kaam karta hai.  
+Pehle, tum apne PDFs, docs, aur databases ko chhote chunks mein tod kar Vector Database mein store karte ho. 
+Ye AI ki personal library hai. 
+Jab tum sawal poochte ho, system pehle is library se sirf relevant pages retrieve karta hai. 
+Phir un pages ko tumhare sawal ke saath jod kar LLM ko bhejta hai,
+aur LLM exact, accurate jawab generate karta hai.
+Na model ko mehnga re-train karne ki zaroorat, na hallucination ka darr. 
+Bas sahi context do, aur AI expert ban jaata hai.

@@ -1,0 +1,1311 @@
+[
+ {
+  "text": "Chai",
+  "startMs": 0,
+  "endMs": 185,
+  "timestampMs": 93,
+  "confidence": null
+ },
+ {
+  "text": " wale",
+  "startMs": 185,
+  "endMs": 556,
+  "timestampMs": 371,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 556,
+  "endMs": 741,
+  "timestampMs": 648,
+  "confidence": null
+ },
+ {
+  "text": " paanch",
+  "startMs": 741,
+  "endMs": 1072,
+  "timestampMs": 906,
+  "confidence": null
+ },
+ {
+  "text": " sau",
+  "startMs": 1072,
+  "endMs": 1257,
+  "timestampMs": 1164,
+  "confidence": null
+ },
+ {
+  "text": " rupaye",
+  "startMs": 1257,
+  "endMs": 1627,
+  "timestampMs": 1442,
+  "confidence": null
+ },
+ {
+  "text": " UPI",
+  "startMs": 1627,
+  "endMs": 2183,
+  "timestampMs": 1905,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 2183,
+  "endMs": 2368,
+  "timestampMs": 2276,
+  "confidence": null
+ },
+ {
+  "text": " bheje.",
+  "startMs": 2368,
+  "endMs": 2739,
+  "timestampMs": 2554,
+  "confidence": null
+ },
+ {
+  "text": " Paise",
+  "startMs": 3326,
+  "endMs": 3661,
+  "timestampMs": 3493,
+  "confidence": null
+ },
+ {
+  "text": " kat",
+  "startMs": 3661,
+  "endMs": 3828,
+  "timestampMs": 3744,
+  "confidence": null
+ },
+ {
+  "text": " gaye,",
+  "startMs": 3828,
+  "endMs": 3995,
+  "timestampMs": 3911,
+  "confidence": null
+ },
+ {
+  "text": " par",
+  "startMs": 4295,
+  "endMs": 4509,
+  "timestampMs": 4402,
+  "confidence": null
+ },
+ {
+  "text": " screen",
+  "startMs": 4509,
+  "endMs": 4723,
+  "timestampMs": 4616,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 4723,
+  "endMs": 4937,
+  "timestampMs": 4830,
+  "confidence": null
+ },
+ {
+  "text": " likha",
+  "startMs": 4937,
+  "endMs": 5365,
+  "timestampMs": 5151,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 5365,
+  "endMs": 5578,
+  "timestampMs": 5472,
+  "confidence": null
+ },
+ {
+  "text": " Pending.",
+  "startMs": 6033,
+  "endMs": 6451,
+  "timestampMs": 6242,
+  "confidence": null
+ },
+ {
+  "text": " Kyun?",
+  "startMs": 6977,
+  "endMs": 7221,
+  "timestampMs": 7099,
+  "confidence": null
+ },
+ {
+  "text": " Kyunki",
+  "startMs": 7593,
+  "endMs": 8013,
+  "timestampMs": 7803,
+  "confidence": null
+ },
+ {
+  "text": " ye",
+  "startMs": 8013,
+  "endMs": 8223,
+  "timestampMs": 8118,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 8223,
+  "endMs": 8433,
+  "timestampMs": 8328,
+  "confidence": null
+ },
+ {
+  "text": " payment",
+  "startMs": 8433,
+  "endMs": 8989,
+  "timestampMs": 8711,
+  "confidence": null
+ },
+ {
+  "text": " nahi,",
+  "startMs": 8989,
+  "endMs": 9409,
+  "timestampMs": 9199,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 9777,
+  "endMs": 9953,
+  "timestampMs": 9865,
+  "confidence": null
+ },
+ {
+  "text": " relay",
+  "startMs": 9953,
+  "endMs": 10305,
+  "timestampMs": 10129,
+  "confidence": null
+ },
+ {
+  "text": " race",
+  "startMs": 10305,
+  "endMs": 10658,
+  "timestampMs": 10482,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 10658,
+  "endMs": 10834,
+  "timestampMs": 10746,
+  "confidence": null
+ },
+ {
+  "text": " Tumhari",
+  "startMs": 11367,
+  "endMs": 11866,
+  "timestampMs": 11616,
+  "confidence": null
+ },
+ {
+  "text": " app,",
+  "startMs": 11866,
+  "endMs": 12140,
+  "timestampMs": 12003,
+  "confidence": null
+ },
+ {
+  "text": " tumhara",
+  "startMs": 12339,
+  "endMs": 12915,
+  "timestampMs": 12627,
+  "confidence": null
+ },
+ {
+  "text": " bank,",
+  "startMs": 12915,
+  "endMs": 13107,
+  "timestampMs": 13011,
+  "confidence": null
+ },
+ {
+  "text": " chai",
+  "startMs": 13416,
+  "endMs": 13604,
+  "timestampMs": 13510,
+  "confidence": null
+ },
+ {
+  "text": " wale",
+  "startMs": 13604,
+  "endMs": 13980,
+  "timestampMs": 13792,
+  "confidence": null
+ },
+ {
+  "text": " ka",
+  "startMs": 13980,
+  "endMs": 14168,
+  "timestampMs": 14074,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 14168,
+  "endMs": 14356,
+  "timestampMs": 14262,
+  "confidence": null
+ },
+ {
+  "text": " sab",
+  "startMs": 14666,
+  "endMs": 14856,
+  "timestampMs": 14761,
+  "confidence": null
+ },
+ {
+  "text": " baton",
+  "startMs": 14856,
+  "endMs": 15236,
+  "timestampMs": 15046,
+  "confidence": null
+ },
+ {
+  "text": " pass",
+  "startMs": 15236,
+  "endMs": 15426,
+  "timestampMs": 15331,
+  "confidence": null
+ },
+ {
+  "text": " karte",
+  "startMs": 15426,
+  "endMs": 15806,
+  "timestampMs": 15616,
+  "confidence": null
+ },
+ {
+  "text": " hain.",
+  "startMs": 15806,
+  "endMs": 15996,
+  "timestampMs": 15901,
+  "confidence": null
+ },
+ {
+  "text": " Aur",
+  "startMs": 16556,
+  "endMs": 16765,
+  "timestampMs": 16660,
+  "confidence": null
+ },
+ {
+  "text": " beech",
+  "startMs": 16765,
+  "endMs": 16974,
+  "timestampMs": 16870,
+  "confidence": null
+ },
+ {
+  "text": " mein",
+  "startMs": 16974,
+  "endMs": 17184,
+  "timestampMs": 17079,
+  "confidence": null
+ },
+ {
+  "text": " baitha",
+  "startMs": 17184,
+  "endMs": 17602,
+  "timestampMs": 17393,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 17602,
+  "endMs": 17981,
+  "timestampMs": 17791,
+  "confidence": null
+ },
+ {
+  "text": " NPCI",
+  "startMs": 17981,
+  "endMs": 18818,
+  "timestampMs": 18399,
+  "confidence": null
+ },
+ {
+  "text": " National",
+  "startMs": 19204,
+  "endMs": 19755,
+  "timestampMs": 19479,
+  "confidence": null
+ },
+ {
+  "text": " Payments",
+  "startMs": 19755,
+  "endMs": 20123,
+  "timestampMs": 19939,
+  "confidence": null
+ },
+ {
+  "text": " Corporation",
+  "startMs": 20123,
+  "endMs": 20858,
+  "timestampMs": 20491,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 20858,
+  "endMs": 21042,
+  "timestampMs": 20950,
+  "confidence": null
+ },
+ {
+  "text": " India.",
+  "startMs": 21042,
+  "endMs": 21410,
+  "timestampMs": 21226,
+  "confidence": null
+ },
+ {
+  "text": " Simple",
+  "startMs": 21981,
+  "endMs": 22327,
+  "timestampMs": 22154,
+  "confidence": null
+ },
+ {
+  "text": " bhasha",
+  "startMs": 22327,
+  "endMs": 22673,
+  "timestampMs": 22500,
+  "confidence": null
+ },
+ {
+  "text": " mein:",
+  "startMs": 22673,
+  "endMs": 22846,
+  "timestampMs": 22759,
+  "confidence": null
+ },
+ {
+  "text": " NPCI",
+  "startMs": 23298,
+  "endMs": 24179,
+  "timestampMs": 23739,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 24179,
+  "endMs": 24400,
+  "timestampMs": 24289,
+  "confidence": null
+ },
+ {
+  "text": " central",
+  "startMs": 24400,
+  "endMs": 24840,
+  "timestampMs": 24620,
+  "confidence": null
+ },
+ {
+  "text": " switch",
+  "startMs": 24840,
+  "endMs": 25061,
+  "timestampMs": 24951,
+  "confidence": null
+ },
+ {
+  "text": " hai,",
+  "startMs": 25061,
+  "endMs": 25281,
+  "timestampMs": 25171,
+  "confidence": null
+ },
+ {
+  "text": " jo",
+  "startMs": 25638,
+  "endMs": 25860,
+  "timestampMs": 25749,
+  "confidence": null
+ },
+ {
+  "text": " har",
+  "startMs": 25860,
+  "endMs": 26082,
+  "timestampMs": 25971,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 26082,
+  "endMs": 26304,
+  "timestampMs": 26193,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 26304,
+  "endMs": 26526,
+  "timestampMs": 26415,
+  "confidence": null
+ },
+ {
+  "text": " har",
+  "startMs": 26526,
+  "endMs": 26989,
+  "timestampMs": 26757,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 26989,
+  "endMs": 27211,
+  "timestampMs": 27100,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 27211,
+  "endMs": 27433,
+  "timestampMs": 27322,
+  "confidence": null
+ },
+ {
+  "text": " jodta",
+  "startMs": 27433,
+  "endMs": 27877,
+  "timestampMs": 27655,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 27877,
+  "endMs": 28099,
+  "timestampMs": 27988,
+  "confidence": null
+ },
+ {
+  "text": " Pehle,",
+  "startMs": 28710,
+  "endMs": 29096,
+  "timestampMs": 28903,
+  "confidence": null
+ },
+ {
+  "text": " tumhari",
+  "startMs": 29422,
+  "endMs": 29967,
+  "timestampMs": 29694,
+  "confidence": null
+ },
+ {
+  "text": " app",
+  "startMs": 29967,
+  "endMs": 30255,
+  "timestampMs": 30111,
+  "confidence": null
+ },
+ {
+  "text": " chai",
+  "startMs": 30255,
+  "endMs": 30436,
+  "timestampMs": 30345,
+  "confidence": null
+ },
+ {
+  "text": " wale",
+  "startMs": 30436,
+  "endMs": 30799,
+  "timestampMs": 30618,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 30799,
+  "endMs": 30980,
+  "timestampMs": 30890,
+  "confidence": null
+ },
+ {
+  "text": " VPA,",
+  "startMs": 30980,
+  "endMs": 31525,
+  "timestampMs": 31253,
+  "confidence": null
+ },
+ {
+  "text": " yaani",
+  "startMs": 31820,
+  "endMs": 32262,
+  "timestampMs": 32041,
+  "confidence": null
+ },
+ {
+  "text": " UPI",
+  "startMs": 32262,
+  "endMs": 32927,
+  "timestampMs": 32595,
+  "confidence": null
+ },
+ {
+  "text": " ID,",
+  "startMs": 32927,
+  "endMs": 33370,
+  "timestampMs": 33148,
+  "confidence": null
+ },
+ {
+  "text": " NPCI",
+  "startMs": 33579,
+  "endMs": 34190,
+  "timestampMs": 33885,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 34190,
+  "endMs": 34343,
+  "timestampMs": 34267,
+  "confidence": null
+ },
+ {
+  "text": " bhejti",
+  "startMs": 34343,
+  "endMs": 34649,
+  "timestampMs": 34496,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 34649,
+  "endMs": 34801,
+  "timestampMs": 34725,
+  "confidence": null
+ },
+ {
+  "text": " NPCI",
+  "startMs": 35441,
+  "endMs": 36102,
+  "timestampMs": 35772,
+  "confidence": null
+ },
+ {
+  "text": " pata",
+  "startMs": 36102,
+  "endMs": 36433,
+  "timestampMs": 36267,
+  "confidence": null
+ },
+ {
+  "text": " lagata",
+  "startMs": 36433,
+  "endMs": 36929,
+  "timestampMs": 36681,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 36929,
+  "endMs": 37094,
+  "timestampMs": 37011,
+  "confidence": null
+ },
+ {
+  "text": " ki",
+  "startMs": 37094,
+  "endMs": 37259,
+  "timestampMs": 37177,
+  "confidence": null
+ },
+ {
+  "text": " ye",
+  "startMs": 37259,
+  "endMs": 37425,
+  "timestampMs": 37342,
+  "confidence": null
+ },
+ {
+  "text": " ID",
+  "startMs": 37425,
+  "endMs": 37755,
+  "timestampMs": 37590,
+  "confidence": null
+ },
+ {
+  "text": " kis",
+  "startMs": 37891,
+  "endMs": 38050,
+  "timestampMs": 37970,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 38050,
+  "endMs": 38208,
+  "timestampMs": 38129,
+  "confidence": null
+ },
+ {
+  "text": " account",
+  "startMs": 38208,
+  "endMs": 38524,
+  "timestampMs": 38366,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 38524,
+  "endMs": 38682,
+  "timestampMs": 38603,
+  "confidence": null
+ },
+ {
+  "text": " judi",
+  "startMs": 38682,
+  "endMs": 38998,
+  "timestampMs": 38840,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 38998,
+  "endMs": 39157,
+  "timestampMs": 39077,
+  "confidence": null
+ },
+ {
+  "text": " Phir",
+  "startMs": 39724,
+  "endMs": 39887,
+  "timestampMs": 39805,
+  "confidence": null
+ },
+ {
+  "text": " tumhare",
+  "startMs": 39887,
+  "endMs": 40668,
+  "timestampMs": 40277,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 40668,
+  "endMs": 40831,
+  "timestampMs": 40750,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 40831,
+  "endMs": 40995,
+  "timestampMs": 40913,
+  "confidence": null
+ },
+ {
+  "text": " debit",
+  "startMs": 40995,
+  "endMs": 41323,
+  "timestampMs": 41159,
+  "confidence": null
+ },
+ {
+  "text": " ka",
+  "startMs": 41323,
+  "endMs": 41486,
+  "timestampMs": 41405,
+  "confidence": null
+ },
+ {
+  "text": " order",
+  "startMs": 41486,
+  "endMs": 41814,
+  "timestampMs": 41650,
+  "confidence": null
+ },
+ {
+  "text": " jaata",
+  "startMs": 41814,
+  "endMs": 42141,
+  "timestampMs": 41978,
+  "confidence": null
+ },
+ {
+  "text": " hai,",
+  "startMs": 42141,
+  "endMs": 42305,
+  "timestampMs": 42223,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 42704,
+  "endMs": 42870,
+  "timestampMs": 42787,
+  "confidence": null
+ },
+ {
+  "text": " chai",
+  "startMs": 42870,
+  "endMs": 43035,
+  "timestampMs": 42952,
+  "confidence": null
+ },
+ {
+  "text": " wale",
+  "startMs": 43035,
+  "endMs": 43365,
+  "timestampMs": 43200,
+  "confidence": null
+ },
+ {
+  "text": " ke",
+  "startMs": 43365,
+  "endMs": 43530,
+  "timestampMs": 43447,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 43530,
+  "endMs": 43695,
+  "timestampMs": 43612,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 43695,
+  "endMs": 43962,
+  "timestampMs": 43828,
+  "confidence": null
+ },
+ {
+  "text": " credit",
+  "startMs": 43962,
+  "endMs": 44417,
+  "timestampMs": 44189,
+  "confidence": null
+ },
+ {
+  "text": " ka.",
+  "startMs": 44417,
+  "endMs": 44582,
+  "timestampMs": 44500,
+  "confidence": null
+ },
+ {
+  "text": " Har",
+  "startMs": 45140,
+  "endMs": 45317,
+  "timestampMs": 45228,
+  "confidence": null
+ },
+ {
+  "text": " payment",
+  "startMs": 45317,
+  "endMs": 45671,
+  "timestampMs": 45494,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 45671,
+  "endMs": 45848,
+  "timestampMs": 45760,
+  "confidence": null
+ },
+ {
+  "text": " milta",
+  "startMs": 45848,
+  "endMs": 46203,
+  "timestampMs": 46026,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 46203,
+  "endMs": 46380,
+  "timestampMs": 46291,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 46380,
+  "endMs": 46557,
+  "timestampMs": 46469,
+  "confidence": null
+ },
+ {
+  "text": " unique",
+  "startMs": 46557,
+  "endMs": 47089,
+  "timestampMs": 46823,
+  "confidence": null
+ },
+ {
+  "text": " Transaction",
+  "startMs": 47089,
+  "endMs": 47621,
+  "timestampMs": 47355,
+  "confidence": null
+ },
+ {
+  "text": " ID.",
+  "startMs": 47621,
+  "endMs": 47975,
+  "timestampMs": 47798,
+  "confidence": null
+ },
+ {
+  "text": " Ab",
+  "startMs": 48642,
+  "endMs": 48804,
+  "timestampMs": 48723,
+  "confidence": null
+ },
+ {
+  "text": " agar",
+  "startMs": 48804,
+  "endMs": 49128,
+  "timestampMs": 48966,
+  "confidence": null
+ },
+ {
+  "text": " chai",
+  "startMs": 49128,
+  "endMs": 49289,
+  "timestampMs": 49208,
+  "confidence": null
+ },
+ {
+  "text": " wale",
+  "startMs": 49289,
+  "endMs": 49613,
+  "timestampMs": 49451,
+  "confidence": null
+ },
+ {
+  "text": " ka",
+  "startMs": 49613,
+  "endMs": 49775,
+  "timestampMs": 49694,
+  "confidence": null
+ },
+ {
+  "text": " bank",
+  "startMs": 49775,
+  "endMs": 49937,
+  "timestampMs": 49856,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 49937,
+  "endMs": 50390,
+  "timestampMs": 50164,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 50390,
+  "endMs": 50552,
+  "timestampMs": 50471,
+  "confidence": null
+ },
+ {
+  "text": " jawab",
+  "startMs": 50552,
+  "endMs": 50876,
+  "timestampMs": 50714,
+  "confidence": null
+ },
+ {
+  "text": " na",
+  "startMs": 50876,
+  "endMs": 51038,
+  "timestampMs": 50957,
+  "confidence": null
+ },
+ {
+  "text": " de,",
+  "startMs": 51038,
+  "endMs": 51200,
+  "timestampMs": 51119,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 51666,
+  "endMs": 51942,
+  "timestampMs": 51804,
+  "confidence": null
+ },
+ {
+  "text": " timeout.",
+  "startMs": 51942,
+  "endMs": 52353,
+  "timestampMs": 52148,
+  "confidence": null
+ },
+ {
+  "text": " Paise",
+  "startMs": 52876,
+  "endMs": 53172,
+  "timestampMs": 53024,
+  "confidence": null
+ },
+ {
+  "text": " kat",
+  "startMs": 53172,
+  "endMs": 53319,
+  "timestampMs": 53246,
+  "confidence": null
+ },
+ {
+  "text": " chuke,",
+  "startMs": 53319,
+  "endMs": 53615,
+  "timestampMs": 53467,
+  "confidence": null
+ },
+ {
+  "text": " par",
+  "startMs": 53843,
+  "endMs": 54146,
+  "timestampMs": 53994,
+  "confidence": null
+ },
+ {
+  "text": " credit",
+  "startMs": 54146,
+  "endMs": 54488,
+  "timestampMs": 54317,
+  "confidence": null
+ },
+ {
+  "text": " confirm",
+  "startMs": 54488,
+  "endMs": 54830,
+  "timestampMs": 54659,
+  "confidence": null
+ },
+ {
+  "text": " nahi",
+  "startMs": 54830,
+  "endMs": 55172,
+  "timestampMs": 55001,
+  "confidence": null
+ },
+ {
+  "text": " isliye",
+  "startMs": 55587,
+  "endMs": 55958,
+  "timestampMs": 55773,
+  "confidence": null
+ },
+ {
+  "text": " Pending.",
+  "startMs": 55958,
+  "endMs": 56540,
+  "timestampMs": 56249,
+  "confidence": null
+ },
+ {
+  "text": " Aur",
+  "startMs": 57128,
+  "endMs": 57295,
+  "timestampMs": 57212,
+  "confidence": null
+ },
+ {
+  "text": " wahi",
+  "startMs": 57295,
+  "endMs": 57628,
+  "timestampMs": 57462,
+  "confidence": null
+ },
+ {
+  "text": " Transaction",
+  "startMs": 57628,
+  "endMs": 58129,
+  "timestampMs": 57879,
+  "confidence": null
+ },
+ {
+  "text": " ID",
+  "startMs": 58129,
+  "endMs": 58462,
+  "timestampMs": 58296,
+  "confidence": null
+ },
+ {
+  "text": " retry",
+  "startMs": 58462,
+  "endMs": 58796,
+  "timestampMs": 58629,
+  "confidence": null
+ },
+ {
+  "text": " pe",
+  "startMs": 58796,
+  "endMs": 58963,
+  "timestampMs": 58879,
+  "confidence": null
+ },
+ {
+  "text": " double",
+  "startMs": 58963,
+  "endMs": 59296,
+  "timestampMs": 59129,
+  "confidence": null
+ },
+ {
+  "text": " charge",
+  "startMs": 59296,
+  "endMs": 59630,
+  "timestampMs": 59463,
+  "confidence": null
+ },
+ {
+  "text": " hone",
+  "startMs": 59630,
+  "endMs": 59963,
+  "timestampMs": 59797,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 59963,
+  "endMs": 60130,
+  "timestampMs": 60047,
+  "confidence": null
+ },
+ {
+  "text": " bachata",
+  "startMs": 60130,
+  "endMs": 60631,
+  "timestampMs": 60380,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 60631,
+  "endMs": 60797,
+  "timestampMs": 60714,
+  "confidence": null
+ },
+ {
+  "text": " ise",
+  "startMs": 61294,
+  "endMs": 61600,
+  "timestampMs": 61447,
+  "confidence": null
+ },
+ {
+  "text": " kehte",
+  "startMs": 61600,
+  "endMs": 61905,
+  "timestampMs": 61753,
+  "confidence": null
+ },
+ {
+  "text": " hain",
+  "startMs": 61905,
+  "endMs": 62220,
+  "timestampMs": 62063,
+  "confidence": null
+ },
+ {
+  "text": " idempotency.",
+  "startMs": 62220,
+  "endMs": 62984,
+  "timestampMs": 62602,
+  "confidence": null
+ },
+ {
+  "text": " System",
+  "startMs": 63606,
+  "endMs": 63959,
+  "timestampMs": 63783,
+  "confidence": null
+ },
+ {
+  "text": " status",
+  "startMs": 63959,
+  "endMs": 64312,
+  "timestampMs": 64135,
+  "confidence": null
+ },
+ {
+  "text": " check",
+  "startMs": 64312,
+  "endMs": 64488,
+  "timestampMs": 64400,
+  "confidence": null
+ },
+ {
+  "text": " karta",
+  "startMs": 64488,
+  "endMs": 64841,
+  "timestampMs": 64665,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 64841,
+  "endMs": 65017,
+  "timestampMs": 64929,
+  "confidence": null
+ },
+ {
+  "text": " paise",
+  "startMs": 65544,
+  "endMs": 65866,
+  "timestampMs": 65705,
+  "confidence": null
+ },
+ {
+  "text": " ya",
+  "startMs": 65866,
+  "endMs": 66027,
+  "timestampMs": 65947,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 66027,
+  "endMs": 66188,
+  "timestampMs": 66108,
+  "confidence": null
+ },
+ {
+  "text": " pahunch",
+  "startMs": 66188,
+  "endMs": 66510,
+  "timestampMs": 66349,
+  "confidence": null
+ },
+ {
+  "text": " jaate",
+  "startMs": 66510,
+  "endMs": 66832,
+  "timestampMs": 66671,
+  "confidence": null
+ },
+ {
+  "text": " hain,",
+  "startMs": 66832,
+  "endMs": 66993,
+  "timestampMs": 66912,
+  "confidence": null
+ },
+ {
+  "text": " ya",
+  "startMs": 67268,
+  "endMs": 67443,
+  "timestampMs": 67355,
+  "confidence": null
+ },
+ {
+  "text": " automatic",
+  "startMs": 67443,
+  "endMs": 68141,
+  "timestampMs": 67792,
+  "confidence": null
+ },
+ {
+  "text": " refund.",
+  "startMs": 68141,
+  "endMs": 68490,
+  "timestampMs": 68315,
+  "confidence": null
+ },
+ {
+  "text": " Har",
+  "startMs": 69057,
+  "endMs": 69294,
+  "timestampMs": 69175,
+  "confidence": null
+ },
+ {
+  "text": " din",
+  "startMs": 69294,
+  "endMs": 69532,
+  "timestampMs": 69413,
+  "confidence": null
+ },
+ {
+  "text": " saath",
+  "startMs": 69532,
+  "endMs": 69769,
+  "timestampMs": 69650,
+  "confidence": null
+ },
+ {
+  "text": " karod",
+  "startMs": 69769,
+  "endMs": 70244,
+  "timestampMs": 70007,
+  "confidence": null
+ },
+ {
+  "text": " se",
+  "startMs": 70244,
+  "endMs": 70482,
+  "timestampMs": 70363,
+  "confidence": null
+ },
+ {
+  "text": " zyada",
+  "startMs": 70482,
+  "endMs": 70957,
+  "timestampMs": 70719,
+  "confidence": null
+ },
+ {
+  "text": " transactions,",
+  "startMs": 70957,
+  "endMs": 71669,
+  "timestampMs": 71313,
+  "confidence": null
+ },
+ {
+  "text": " aur",
+  "startMs": 71977,
+  "endMs": 72141,
+  "timestampMs": 72059,
+  "confidence": null
+ },
+ {
+  "text": " har",
+  "startMs": 72141,
+  "endMs": 72306,
+  "timestampMs": 72224,
+  "confidence": null
+ },
+ {
+  "text": " ek",
+  "startMs": 72306,
+  "endMs": 72471,
+  "timestampMs": 72389,
+  "confidence": null
+ },
+ {
+  "text": " ka",
+  "startMs": 72471,
+  "endMs": 72918,
+  "timestampMs": 72695,
+  "confidence": null
+ },
+ {
+  "text": " poora",
+  "startMs": 72918,
+  "endMs": 73248,
+  "timestampMs": 73083,
+  "confidence": null
+ },
+ {
+  "text": " hisaab.",
+  "startMs": 73248,
+  "endMs": 73578,
+  "timestampMs": 73413,
+  "confidence": null
+ }
+]

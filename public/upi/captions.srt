@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,739
+Chai wale ko paanch sau rupaye UPI se bheje.
+
+2
+00:00:03,326 --> 00:00:06,451
+Paise kat gaye, par screen pe likha hai — Pending.
+
+3
+00:00:06,977 --> 00:00:07,221
+Kyun?
+
+4
+00:00:07,593 --> 00:00:10,834
+Kyunki ye ek payment nahi, ek relay race hai.
+
+5
+00:00:11,367 --> 00:00:15,996
+Tumhari app, tumhara bank, chai wale ka bank — sab baton pass karte hain.
+
+6
+00:00:16,556 --> 00:00:21,410
+Aur beech mein baitha hai NPCI — National Payments Corporation of India.
+
+7
+00:00:21,981 --> 00:00:28,099
+Simple bhasha mein: NPCI ek central switch hai, jo har bank ko har bank se jodta hai.
+
+8
+00:00:28,710 --> 00:00:34,801
+Pehle, tumhari app chai wale ki VPA, yaani UPI ID, NPCI ko bhejti hai.
+
+9
+00:00:35,441 --> 00:00:39,157
+NPCI pata lagata hai ki ye ID kis bank account se judi hai.
+
+10
+00:00:39,724 --> 00:00:44,582
+Phir tumhare bank ko debit ka order jaata hai, aur chai wale ke bank ko credit ka.
+
+11
+00:00:45,140 --> 00:00:47,975
+Har payment ko milta hai ek unique Transaction ID.
+
+12
+00:00:48,642 --> 00:00:52,353
+Ab agar chai wale ka bank time pe jawab na de, to timeout.
+
+13
+00:00:52,876 --> 00:00:56,540
+Paise kat chuke, par credit confirm nahi — isliye Pending.
+
+14
+00:00:57,128 --> 00:01:02,984
+Aur wahi Transaction ID retry pe double charge hone se bachata hai — ise kehte hain idempotency.
+
+15
+00:01:03,606 --> 00:01:08,490
+System status check karta hai — paise ya to pahunch jaate hain, ya automatic refund.
+
+16
+00:01:09,057 --> 00:01:13,578
+Har din saath karod se zyada transactions, aur har ek ka poora hisaab.

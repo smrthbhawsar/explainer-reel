@@ -1,0 +1,14 @@
+Tumhare FASTag mein na battery hai, na paisa.
+Phir bhi gaadi rukne se pehle hi, toll kat jaata hai. Kaise?
+Ye sticker ek passive RFID tag hai.
+Isme paisa nahi hota, sirf ek unique ID, gaadi ke aadhaar number jaisi.
+Lekin battery ke bina ye bolta kaise hai?
+Toll lane ke upar ek reader antenna lagi hoti hai.
+Wo radio waves bhejta hai, aur wahi waves tag ko power de dete hain.
+Tag jaag jaata hai, aur apni ID wapas bhej deta hai. Milliseconds mein.
+Ab asli game shuru hota hai.
+Ye ID toll plaza ke bank ke paas jaati hai.
+Wo NPCI se poochta hai, ye tag kis bank ka hai?
+NPCI tumhare bank ko batata hai, aur tumhare FASTag account se toll kat jaata hai.
+Barrier khulta hai, aur phone pe SMS aa jaata hai.
+Na battery, na paisa — bas ek ID, jo seedha bank tak jaati hai.

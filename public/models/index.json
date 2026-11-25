@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "car-concept",
+    "file": "models/car-concept/CarConcept.glb",
+    "license": "CC-BY-4.0 + LicenseRef-LegalMark-Khronos",
+    "author": "Eric Chadwick, Non-copyrightable logo",
+    "url": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept",
+    "tags": [
+      "car",
+      "vehicle",
+      "showcase",
+      "extension"
+    ],
+    "source": "khronos:CarConcept",
+    "triangles": 213347,
+    "animations": [],
+    "size": {
+      "x": 2.716,
+      "y": 1.308,
+      "z": 4.357
+    }
+  },
+  {
+    "slug": "fox",
+    "file": "models/fox/Fox.glb",
+    "license": "CC0-1.0 + CC-BY-4.0",
+    "author": "PixelMannen, tomkranis, @AsoboStudio and @scurest",
+    "url": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Fox",
+    "tags": [
+      "animal",
+      "animated",
+      "core",
+      "testing"
+    ],
+    "source": "khronos:Fox",
+    "triangles": 576,
+    "animations": [
+      "Survey",
+      "Walk",
+      "Run"
+    ],
+    "size": {
+      "x": 25.185,
+      "y": 79.029,
+      "z": 154.72
+    }
+  }
+]

@@ -1,0 +1,63 @@
+1
+00:00:00,109 --> 00:00:02,824
+Tumhare FASTag mein na battery hai, na paisa.
+
+2
+00:00:03,394 --> 00:00:06,073
+Phir bhi gaadi rukne se pehle hi, toll kat jaata hai.
+
+3
+00:00:06,620 --> 00:00:06,950
+Kaise?
+
+4
+00:00:07,674 --> 00:00:10,430
+Ye sticker ek passive RFID tag hai.
+
+5
+00:00:10,945 --> 00:00:15,604
+Isme paisa nahi hota, sirf ek unique ID, gaadi ke aadhaar number jaisi.
+
+6
+00:00:16,160 --> 00:00:18,469
+Lekin battery ke bina ye bolta kaise hai?
+
+7
+00:00:19,162 --> 00:00:21,941
+Toll lane ke upar ek reader antenna lagi hoti hai.
+
+8
+00:00:22,387 --> 00:00:26,535
+Wo radio waves bhejta hai, aur wahi waves tag ko power de dete hain.
+
+9
+00:00:27,088 --> 00:00:30,019
+Tag jaag jaata hai, aur apni ID wapas bhej deta hai.
+
+10
+00:00:30,357 --> 00:00:31,259
+Milliseconds mein.
+
+11
+00:00:31,918 --> 00:00:33,490
+Ab asli game shuru hota hai.
+
+12
+00:00:34,076 --> 00:00:36,674
+Ye ID toll plaza ke bank ke paas jaati hai.
+
+13
+00:00:37,202 --> 00:00:40,302
+Wo NPCI se poochta hai, ye tag kis bank ka hai?
+
+14
+00:00:40,908 --> 00:00:45,721
+NPCI tumhare bank ko batata hai, aur tumhare FASTag account se toll kat jaata hai.
+
+15
+00:00:46,264 --> 00:00:49,332
+Barrier khulta hai, aur phone pe SMS aa jaata hai.
+
+16
+00:00:49,938 --> 00:00:54,771
+Na battery, na paisa — bas ek ID, jo seedha bank tak jaati hai.

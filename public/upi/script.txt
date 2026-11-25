@@ -1,0 +1,16 @@
+Chai wale ko paanch sau rupaye UPI se bheje.
+Paise kat gaye, par screen pe likha hai — Pending.
+Kyun?
+Kyunki ye ek payment nahi, ek relay race hai.
+Tumhari app, tumhara bank, chai wale ka bank — sab baton pass karte hain.
+Aur beech mein baitha hai NPCI — National Payments Corporation of India.
+Simple bhasha mein: NPCI ek central switch hai, jo har bank ko har bank se jodta hai.
+Pehle, tumhari app chai wale ki VPA, yaani UPI ID, NPCI ko bhejti hai.
+NPCI pata lagata hai ki ye ID kis bank account se judi hai.
+Phir tumhare bank ko debit ka order jaata hai, aur chai wale ke bank ko credit ka.
+Har payment ko milta hai ek unique Transaction ID.
+Ab agar chai wale ka bank time pe jawab na de, to timeout.
+Paise kat chuke, par credit confirm nahi — isliye Pending.
+Aur wahi Transaction ID retry pe double charge hone se bachata hai — ise kehte hain idempotency.
+System status check karta hai — paise ya to pahunch jaate hain, ya automatic refund.
+Har din saath karod se zyada transactions, aur har ek ka poora hisaab.

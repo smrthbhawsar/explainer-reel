@@ -1,0 +1,198 @@
+[
+ {
+  "text": "Aapka",
+  "startMs": 300,
+  "endMs": 663,
+  "timestampMs": 482,
+  "confidence": null
+ },
+ {
+  "text": " code",
+  "startMs": 663,
+  "endMs": 975,
+  "timestampMs": 819,
+  "confidence": null
+ },
+ {
+  "text": " computer",
+  "startMs": 975,
+  "endMs": 1494,
+  "timestampMs": 1235,
+  "confidence": null
+ },
+ {
+  "text": " ko",
+  "startMs": 1494,
+  "endMs": 1702,
+  "timestampMs": 1598,
+  "confidence": null
+ },
+ {
+  "text": " samajh",
+  "startMs": 1702,
+  "endMs": 2117,
+  "timestampMs": 1910,
+  "confidence": null
+ },
+ {
+  "text": " hi",
+  "startMs": 2117,
+  "endMs": 2325,
+  "timestampMs": 2221,
+  "confidence": null
+ },
+ {
+  "text": " nahi",
+  "startMs": 2325,
+  "endMs": 2637,
+  "timestampMs": 2481,
+  "confidence": null
+ },
+ {
+  "text": " aata.",
+  "startMs": 2637,
+  "endMs": 3000,
+  "timestampMs": 2818,
+  "confidence": null
+ },
+ {
+  "text": " Pehle",
+  "startMs": 3400,
+  "endMs": 3917,
+  "timestampMs": 3659,
+  "confidence": null
+ },
+ {
+  "text": " compiler",
+  "startMs": 3917,
+  "endMs": 4657,
+  "timestampMs": 4287,
+  "confidence": null
+ },
+ {
+  "text": " usse",
+  "startMs": 4657,
+  "endMs": 5100,
+  "timestampMs": 4878,
+  "confidence": null
+ },
+ {
+  "text": " translate",
+  "startMs": 5100,
+  "endMs": 5913,
+  "timestampMs": 5507,
+  "confidence": null
+ },
+ {
+  "text": " karta",
+  "startMs": 5913,
+  "endMs": 6430,
+  "timestampMs": 6172,
+  "confidence": null
+ },
+ {
+  "text": " hai",
+  "startMs": 6430,
+  "endMs": 6800,
+  "timestampMs": 6615,
+  "confidence": null
+ },
+ {
+  "text": " seedha",
+  "startMs": 7200,
+  "endMs": 7755,
+  "timestampMs": 7478,
+  "confidence": null
+ },
+ {
+  "text": " bytes",
+  "startMs": 7755,
+  "endMs": 8241,
+  "timestampMs": 7998,
+  "confidence": null
+ },
+ {
+  "text": " mein.",
+  "startMs": 8241,
+  "endMs": 8727,
+  "timestampMs": 8484,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 8727,
+  "endMs": 9004,
+  "timestampMs": 8865,
+  "confidence": null
+ },
+ {
+  "text": " names,",
+  "startMs": 9004,
+  "endMs": 9559,
+  "timestampMs": 9282,
+  "confidence": null
+ },
+ {
+  "text": " no",
+  "startMs": 9559,
+  "endMs": 9837,
+  "timestampMs": 9698,
+  "confidence": null
+ },
+ {
+  "text": " comments.",
+  "startMs": 9837,
+  "endMs": 10600,
+  "timestampMs": 10218,
+  "confidence": null
+ },
+ {
+  "text": " Aur",
+  "startMs": 11200,
+  "endMs": 11554,
+  "timestampMs": 11377,
+  "confidence": null
+ },
+ {
+  "text": " processor",
+  "startMs": 11554,
+  "endMs": 12333,
+  "timestampMs": 11944,
+  "confidence": null
+ },
+ {
+  "text": " bas",
+  "startMs": 12333,
+  "endMs": 12687,
+  "timestampMs": 12510,
+  "confidence": null
+ },
+ {
+  "text": " yahi",
+  "startMs": 12687,
+  "endMs": 13112,
+  "timestampMs": 12900,
+  "confidence": null
+ },
+ {
+  "text": " bytes",
+  "startMs": 13112,
+  "endMs": 13608,
+  "timestampMs": 13360,
+  "confidence": null
+ },
+ {
+  "text": " padhta",
+  "startMs": 13608,
+  "endMs": 14175,
+  "timestampMs": 13892,
+  "confidence": null
+ },
+ {
+  "text": " hai.",
+  "startMs": 14175,
+  "endMs": 14600,
+  "timestampMs": 14387,
+  "confidence": null
+ }
+]
